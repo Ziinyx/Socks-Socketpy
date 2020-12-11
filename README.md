@@ -49,3 +49,10 @@ Start sending messages......(#^.^#)
 
 ## Author
 * **Zinyx** - *Islander of Dawn of Isles* (Europe Server)
+
+## Acknowledgement
+
+Inspiration
+* [Realpython](https://realpython.com/python-sockets/)
+* Medium article
+* Youtube video Code for Cause
