@@ -1,6 +1,10 @@
 # Socks-Socketpy
 Python sockets
 
+## Suggestions/ Ideas
+
+All suggestions are welcome, Feel free to give.(#'.'#)
+
 It's simple chat program running in same host.SO, it needs an upgrade I am working on it.
 
 ## Getting Started 
