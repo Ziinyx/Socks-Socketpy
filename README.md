@@ -34,7 +34,7 @@ py -m venv env
 
 * Now, activate virtual env from cmd.
 
-** For Windows Users **
+**For Windows Users**
 
 * Then run py program for starting server for communication(Windows user)
 ```
