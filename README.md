@@ -52,7 +52,7 @@ Start sending messages......(#^.^#)
 * Python3
 
 ## Author
-* **Zinyx** - *Islander of Dawn of Isles* (Europe Server)
+**Zinyx** 
 
 ## Acknowledgement
 
